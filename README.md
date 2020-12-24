@@ -13,6 +13,19 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Gabriel](mailto:gpoliveira100@gmail.com);
 
+
+### **Languages and Tools:** 
+
+<code><img height="25" src="php.png"> </code>
+<code><img height="25" src="laravel.png"> </code>
+<code><img height="25" src="javascript.png" ></code>
+<code><img height="25" src="vue.png"> </code>
+<code><img height="25" src="html.png"> </code>
+<code><img height="25" src="css.png"> </code>
+<code><img height="25" src="MySQl.png"> </code>
+<code><img height="25" src="git.png"> </code>
+
+
 <!--
 **GabrielPOliveira/GabrielPOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
