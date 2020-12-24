@@ -22,7 +22,7 @@
 <code><img height="25" src="vue.png"> </code>
 <code><img height="25" src="html.png"> </code>
 <code><img height="25" src="css.png"> </code>
-<code><img height="25" src="MySQl.png"> </code>
+<code><img height="25" src="MySQL.png"> </code>
 <code><img height="25" src="git.png"> </code>
 
 
