@@ -2,7 +2,7 @@
  I'm Gabriel P. Oliveira, a passionate Full Stack Web Developer 🚀 from Brazil.
 #
 
-<img align="right" alt="GIF" src="Programming.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="Programming.gif?raw=true" width="400" height="400" />
 
 
 
