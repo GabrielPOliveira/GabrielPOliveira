@@ -8,8 +8,7 @@
 
 ### **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working with Laravel;
-- 🌱 I’m currently learning Vue.js; 
+- 👨🏽‍💻 I’m currently working with Node.js and React.js;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Gabriel](mailto:gpoliveira100@gmail.com);
 
