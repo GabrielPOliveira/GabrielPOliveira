@@ -15,14 +15,16 @@
 
 ### **Languages and Tools:** 
 
-<code><img height="25" src="php.png"> </code>
-<code><img height="25" src="laravel.png"> </code>
-<code><img height="25" src="javascript.png" ></code>
-<code><img height="25" src="vue.png"> </code>
-<code><img height="25" src="html.png"> </code>
-<code><img height="25" src="css.png"> </code>
-<code><img height="25" src="MySQL.png"> </code>
-<code><img height="25" src="git.png"> </code>
+<code><img height="25" src="php.png" title="php"> </code>
+<code><img height="25" src="laravel.png" title="laravel"> </code>
+<code><img height="25" src="javascript.png" title="Javascript"></code>
+<code><img height="25" src="node.png" title="node.js">  </code>
+<code><img height="25" src="react.png" title="react.js"> </code>
+<code><img height="25" src="html.png" title="html"> </code>
+<code><img height="25" src="css.png" title="css"> </code>
+<code><img height="25" src="mongo.png" title="Mongo DB"> </code>
+<code><img height="25" src="MySQL.png" title="Mysql"> </code>
+<code><img height="25" src="git.png" title="Git"> </code>
 
 
 <!--
